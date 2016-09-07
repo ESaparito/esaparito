@@ -7,15 +7,11 @@
  
  </head>
  
- <Title>
- 
- This is the title
- 
- </title>
+
  
  <Body>
  
- <p>this is the body</p>
+ this is the body
  
  </body>
  
