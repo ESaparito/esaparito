@@ -10,13 +10,7 @@
 
  
  <Body>
- 
- <a href=https://github.com/ESaparito/esaparito/edit/master/README.md>Here</a>
-
- <a href=https://github.com/ESaparito/esaparito/blob/master/index.md>Index</a>
- 
- this is the body
- 
+  <a href=https://github.com/ESaparito/esaparito/blob/master/index.md>Index</a>
  </body>
  
  </html>
