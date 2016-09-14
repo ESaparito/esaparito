@@ -3,7 +3,7 @@
 
 <head>
  
- This is the head
+ This is the heading
  
  </head>
  
