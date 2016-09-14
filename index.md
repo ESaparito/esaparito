@@ -7,6 +7,6 @@
 
 <a><a href=https://github.com/ESaparito/esaparito/blob/master/directory/page2.md>Directory page 2</a>
 
-<a><a href=https://github.com/ESaparito/esaparito.github.io/blob/master/2000px-New_York_Rangers.svg.png>Rangers</a>
+<img><https://github.com/ESaparito/esaparito.github.io/blob/master/2000px-New_York_Rangers.svg.png>Rangers</img>
 </body
 </html>
